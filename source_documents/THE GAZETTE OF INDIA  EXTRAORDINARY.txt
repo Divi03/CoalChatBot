@@ -1,0 +1,827 @@
+REGD. NO. D. L.-33004/99
+
+jftLVªh laö Mhö ,yö&33004@99
+
+vlk/kj.k
+EXTRAORDINARY
+
+Hkkx II—[k.M 3—mi&[k.M (i)
+PART II—Section 3—Sub-section (i)
+izkf/dkj ls izdkf'kr
+PUBLISHED BY AUTHORITY
+
+la- 625]
+
+ubZ fnYyh] c`gLifrokj] tqykbZ 13] 2017@vk"kk<+ 22] 1939
+
+No. 625]
+
+NEW DELHI, THURSDAY, JULY 13, 2017/ASADHA 22, 1939
+
+MINISTRY OF COAL
+NOTIFICATION
+New Delhi, the 13th July, 2017
+G.S.R. 877(E).—WHEREAS, the Central Government had notified the Auction by Competitive
+Bidding of Coal Mines Rules, 2012 on 2nd February, 2012 in exercise of the powers conferred by clause (d) of
+sub-section (2) of section 13 of the Mines and Minerals (Development and Regulation) Act, 1957 (No. 67 of
+1957), as amended from time to time, for specifying the terms and conditions of auction by competitive
+bidding for selection of the company under section 11A of the Mines and Minerals (Development and
+Regulation) Act, 1957 (No. 67 of 1957) and related matters thereto;
+AND WHEREAS, section 11A and clause (d) of sub-section (2) of section 13 of the Mines and
+Minerals (Development and Regulation) Act, 1957 (No. 67 of 1957) has been amended by the Part B of
+Schedule IV of the Coal Mines (Special Provisions) Act, 2015 (No. 11 of 2015) which necessitated
+amendments in the Auction by Competitive Bidding of Coal Mines Rules, 2012;
+
+12
+
+THE GAZETTE OF INDIA : EXTRAORDINARY
+
+[PART II—SEC. 3(i)]
+
+NOW, THEREFORE, in exercise of the powers conferred by sub-section (1) of section 13 and clause
+(d) of sub-section (2) of section 13 of the Mines and Minerals (Development and Regulation) Act, 1957 (No.
+67 of 1957) Central Government hereby makes the following rules, namely:—
+CHAPTER I : SHORT TITLE AND COMMENCEMENT
+1.
+
+Short title and commencement.—(1) These rules may be called the Coal Blocks Allocation Rules,
+2017.
+
+(2)
+
+They shall come into force on the date of their publication in the Official Gazette.
+
+2.
+
+Definitions.—(1) In these rules, unless the context otherwise requires,—
+
+(a)
+
+“Act” means the Mines and Minerals (Development and Regulation) Act, 1957 (No. 67 of 1957);
+
+(b)
+
+“affiliate” with respect to any person shall mean any other person which, directly or indirectly;(i)
+
+controls such person; or
+
+(ii) is controlled by such person; or
+(iii) is controlled by the same person who, directly or indirectly, controls such person; or
+(iv) is an associate company of such person;
+Explanation.—for the purpose of this clause, "associate company" shall have the same meaning
+assigned to it in sub-section (6) of section 2 of the Companies Act, 2013 (No. 18 of 2013);
+(c)
+
+“allocation” means allotment and auction referred together;
+
+(d)
+
+“allotment” means allotment of coal blocks referred to in clause (a) and (b) of the proviso to section
+11A of the Act;
+
+(e)
+
+“allocation order” means the allocation order referred to in sub-rule (5) of rule 8;
+
+(f)
+
+“allotment document” means the document referred to in sub-rule (1) of rule 6;
+
+(g)
+
+“auction” means public auction of coal blocks under sub-section (1) of section 11A of the Act;
+
+(h)
+
+“bidder” means a company or corporation which participate in auction of coal blocks;
+
+(i)
+
+“block dossier” means the block dossier as referred to in sub-rule (1) of rule 4;
+
+(j)
+
+“ceiling price” means the price fixed by the Central Government for a coal block which is to be
+allocated by way of reverse auction;
+
+(k)
+
+“coal” includes anthracite, bituminous, lignite, peat, coking coal, coke and any other form of
+carbonaceous matter sold or marketed as coal;
+
+(l)
+
+“coal block” means an area containing coal which has been identified in accordance with clause (a) of
+sub-rule (1) of rule 3;
+
+(m)
+
+“coal linkage” means a contract entered between coal producing Government company or corporation
+and consumer for supply of coal in accordance with the terms and conditions of the relevant fuel
+supply agreement;
+
+(n)
+
+“control” shall include the right to appoint majority of the directors or to control the management or
+policy decisions exercisable by a person or persons acting individually or in concert, directly or
+indirectly, including by virtue of their shareholding or management rights or shareholders agreements
+or voting agreements or in any other manner;
+
+(o)
+
+“floor price” means the price fixed by the Central Government for a coal block which is to be
+allocated by way of forward auction;
+
+(p)
+
+“forward auction” means the method of auction where the bidders shall be required to successively
+quote the bid higher than the floor price, subject to such conditions as may be specified in the tender
+document;
+
+¹Hkkx IIμ[k.M 3(i)º
+
+Hkkjr dk jkti=k % vlk/kj.k
+
+13
+
+(q)
+
+“group company” means a company which is an affiliate of another company;
+
+(r)
+
+“infrastructure special purpose vehicle” means an entity incorporated by the nodal agency designated
+by the Central Government for the purposes of Ultra Mega Power Projects and shall –
+(i) hold the land required for the construction of the Ultra Mega Power Project and grant the said
+land under lease or licence to the operating special purpose vehicle;
+(ii) hold the allocation of the domestic captive coal block and grant the mining, development and
+operation rights of the said domestic captive coal block to the operating special purpose vehicle.
+
+(s)
+
+“operating special purpose vehicle” means an entity incorporated by the nodal agency designated by
+the Central Government for the purpose of an Ultra Mega Power Project and shall –
+(i) be transferred to the awardee of an Ultra Mega Power Project on the basis of competitive bids
+for tariff for the execution of the Ultra Mega Power Projects;
+(ii) execute the power purchase agreement with the distribution licensees for execution of the Ultra
+Mega Power Project;
+(iii) hold the land required for the construction of the Ultra Mega Power Project on lease basis
+acquired in the name of infrastructure special purpose vehicle; act as a mine development operator of
+the captive coal mine allocated to the infrastructure special purpose vehicle.
+
+(t)
+
+“person” shall include any company or association or body of individuals, whether incorporated or
+not;
+
+(u)
+
+“preferred allottee” means the preferred allottee as referred to in sub-rule (8) of rule 6;
+
+(v)
+
+“preferred bidder” means the preferred bidder as referred to in sub-rule (6) of rule 5;
+
+(w)
+
+“reverse auction” means the method of auction where the bidders shall be required to successively
+quote the bid lower than the ceiling price, subject to such conditions as may be specified in the tender
+document;
+
+(x)
+
+“reserve price” means the price fixed by the Central Government for a coal block allocated by way of
+allotment or by way of reverse auction;
+
+(y)
+
+“successful allocatee” means successful bidder and successful allottee referred together;
+
+(z)
+
+“successful allottee” means the successful allottee as referred to in sub-rule (9) of rule 6;
+
+(za)
+
+“successful bidder” means the successful bidder as referred to in sub-rule (8) of rule 5;
+
+(zb)
+
+“tender document” means the tender document as referred to in sub-rule (1) of rule 5;
+
+(zc)
+
+“Ultra Mega Power Project” shall mean a power project based on supercritical coal thermal
+technology or more efficient technology, with installed capacity of 3960 Mega Watt (MW) or above
+or such other capacity as may be stipulated by the Central Government, from which power
+procurement is tied up by procurers in more than one State or Union Territory, through tariff based
+competitive bidding initiated through a Central Government initiative under the Guidelines for
+Determination of Tariff Through Transparent Process of Bidding for Procurement of Power from
+Ultra Mega Power Projects notified by Central Government under section 63 of the Electricity Act,
+2003 (No. 36 of 2003); and
+
+(zd)
+
+the expressions “generating station” and “captive generating plant” shall have the meanings assigned
+to them in the Electricity Act, 2003 (No. 36 of 2003).
+
+(2)
+Words and expressions used herein but not defined and defined in the Act shall have the meaning
+respectively assigned to them in the Act.
+
+14
+
+THE GAZETTE OF INDIA : EXTRAORDINARY
+
+[PART II—SEC. 3(i)]
+
+CHAPTER II: AUCTION AND ALLOTMENT PROCESS
+3.
+Allocation process.— (1) In connection with the allocation of coal blocks the Central Government
+shall –
+(a)
+
+identify the coal blocks for allocation as per the standard technical parameters;
+
+(b)
+
+specify the manner of allocation through –
+(i)
+
+auction; or
+
+(ii) allotment to Government Company or corporation under clause (a) of the proviso to section
+11A of the Act; or
+(iii) allotment to a company or corporation under clause (b) of the proviso to section 11A of the
+Act;
+(c)
+
+specify purpose of allocation of the coal blocks including, but not limited to, own consumption or for
+sale;
+Explanation.— Own consumption may include consumption of coal in the end uses such as
+production of iron and steel; generation of electricity through generating station; generation of
+electricity through captive generating plant; production of cement; production of fertilizers;
+production of syn-gas through coal gasification; or any other end use as the Central Government may,
+by notification in the Official Gazette, specify:
+Provided that in case the coal block is to be allocated for the purpose of own consumption, the Central
+Government may combine one or more end uses as specified under this sub-rule.
+
+(d)
+
+specify broad parameters for conducting allotment or auction including by way of forward auction or
+reverse auction;
+
+(e)
+
+prepare block dossier for each coal block as specified in rule 4; and
+
+(f)
+
+any other matter that the Central Government may deem expedient in accordance with the Act or
+these rules.
+
+(2)
+The Central Government may constitute one or more committees consisting of members from the
+Ministry of Coal, other ministries or departments in the Government of India and such experts as may be
+deemed expedient for making recommendations to the Central Government for the purposes of sub-rule (1) of
+rule 3.
+(3)
+Pursuant to the process undertaken in accordance with sub-rule (1) of rule 3, the Central Government
+shall conduct the auction process in accordance with the provisions of rule 5 or the allotment process in
+accordance with rule 6 or rule 7, as the case may be.
+4.
+Block Dossier.— (1) The Central Government shall prepare a written dossier that is, the block
+dossier for each coal block, based on the information available with the Central Government, which may
+include,–
+
+(2)
+
+(a)
+
+particulars of the coal block, including the geographical area, coal reserves and other geological
+information, as available;
+
+(b)
+
+particulars of reconnaissance operations, prospecting operations or mining operations, as may be
+applicable, conducted earlier by any person in reference to the coal block.
+
+The Central Government may update the block dossier based on additional information, if any.
+
+5.
+Auction.— (1) In respect of coal blocks, for which the Central Government has specified auction
+under clause (b) of sub-rule (1) of rule 3, the Central Government shall prepare a document for the auction
+process, that is, the tender document.
+(2)
+Each tender document may include such information as the Central Government may consider
+expedient for the purposes of auction including,–
+(a)
+
+the block dossier containing particulars of the coal block;
+
+¹Hkkx IIμ[k.M 3(i)º
+
+Hkkjr dk jkti=k % vlk/kj.k
+
+15
+
+(b)
+
+purpose of allocation of the coal blocks including, but not limited to, own consumption or for
+sale;
+
+(c)
+
+the terms and conditions associated with the public auction, including the floor price in case of
+forward auction or the ceiling price in case of reverse auction, reserve price in case of reverse
+auction, eligibility conditions, the process of conduct of auction and other related information;
+
+(d)
+
+the request for proposal;
+
+(e)
+
+specimen of agreements proposed to be entered into with the successful bidder as specified in
+sub-rule (1) of rule 8.
+
+(3)
+The participants in the auction process shall be required to make payment of non-refundable fee of
+five lakh rupees for each coal block.
+(4)
+The Central Government shall issue a public notice for the auction in at least one Hindi and one
+English language national newspaper and such public notice shall specify the manner in which the tender
+document shall be obtained.
+(5)
+The Central Government shall comply with the following procedure while conducting auction,
+namely:—
+(a)
+
+Electronic auction.— The process of auction of coal blocks shall be conducted through
+electronic auction, in accordance with the Act, these rules, the tender document and orders issued
+by the Central Government, if any.
+
+(b)
+
+Auction process.— (A) The auction process shall be a two stage process comprising of–
+(i)
+
+technical bid; and
+
+(ii)
+
+financial bid.
+
+(B) The technical bid shall be for the purpose of qualification and the financial bid shall be for the
+purpose of determination of the successful bidder.
+(C) The financial bid may be divided into such sub-stages or rounds as may be deemed expedient
+by the Central Government.
+(c)
+
+Eligibility.– The Central Government shall specify the applicable eligibility conditions for
+participation in auction in the tender document and the same may include,–
+(i)
+
+technical and financial qualifications of the participants in the auction;
+
+(ii)
+
+compliance with the procedure specified for the auction process; and
+
+(iii)
+
+requirement to provide bid security in the form of bank guarantee.
+
+(d)
+
+The Central Government may constitute a committee consisting of members from the Ministry of
+Coal, other ministries or departments of Central Government and such technical experts from
+various fields as may be deemed expedient for making recommendations to the Central
+Government for the purposes of determining technical and financial eligibility of the bidders.
+
+(e)
+
+In case the coal block is specified for auction for the purpose of own consumption, then the
+capacity of the end use project for which a bidder is bidding shall be in such proportion to the
+capacity of coal block as may be specified.
+
+(f)
+
+The Central Government may also specify the maximum number of coal blocks or amount of coal
+reserves or both that may be allocated to a company or corporation or its subsidiary or parent
+company or associate companies or group companies or its affiliate.
+
+(6)
+Upon completion of the auction process, the preferred bidder shall be declared on the basis of the
+result of auction.
+(7)
+The Central Government may, after such scrutiny of the auction conducted as may be deemed
+expedient, declare the preferred bidder to be the successful bidder for the coal block or may cancel the auction
+process of the coal block.
+
+16
+
+THE GAZETTE OF INDIA : EXTRAORDINARY
+
+[PART II—SEC. 3(i)]
+
+(8)
+In case the coal block is specified for the purpose of own consumption and a bidder having a coal
+linkage becomes the successful bidder, then the entitlement to receive coal pursuant to such coal linkage for
+the end use plant on the basis of which it became a successful bidder may be reduced on such basis as may be
+specified by the Central Government.
+6.
+Allotment.— (1) In respect of coal blocks, for which the Central Government has specified allotment
+to Government company or corporation under sub-clause (ii) of clause (b) of sub-rule (1) of rule 3, the Central
+Government shall prepare a document for the allotment process, that is, the allotment document.
+(2)
+Each allotment document may include such information as the Central Government may consider
+expedient for the purposes of allotment including,–
+(a)
+
+the block dossier containing particulars of the coal block;
+
+(b)
+
+purpose of allotment of the coal blocks including, but not limited to, own consumption or for sale;
+
+(c)
+
+the terms and conditions associated with the allotment, including the reserve price, eligibility
+conditions, procedure for making application for allotment, the process of conduct of allotment
+and other related information:
+Provided that in case coal block whose mining plan has not been prepared, the Central
+Government may specify the reserve price after the allotment of coal block and preparation of
+mining plan for such mine; and the successful allottee shall furnish an undertaking as a part of the
+agreement, as specified in sub-rule (1) of rule 8, to pay the reserve price within the specified time,
+as may be specified by the Central Government.
+
+(d)
+
+specimen of agreements proposed to be entered into with the successful allottee as specified in
+sub-rule (1) of rule 8.
+
+(3)
+The Central Government shall issue a public notice for the allotment in at least one Hindi and one
+English language national newspaper and such public notice shall specify the manner in which the allotment
+document shall be obtained on the basis of which an applicant will submit the application for allotment.
+(4)
+The allotment document shall specify the norms for allotment and such norms may include the
+following, namely:(a)
+
+progress of development of coal blocks by the applicant in the past, if any;
+
+(b) financial details of the applicant, including the net-worth and turnover;
+(c)
+
+technical capabilities of the applicant and the technology proposed to be used for mining;
+
+(d) demand-supply gap;
+(e)
+
+assessment of requirements of the State;
+
+(f)
+
+in case of utilisation of the coal for own consumption,–
+(i)
+
+state of preparedness of the end use facility;
+
+(ii)
+
+proximity of the end use facility to the relevant coal block;
+
+(iii)
+
+in case the purpose of allotment of coal block is specified as consumption of coal in
+generation of electricity through generating station, the per-capita power availability in
+the State of the applicant company.
+
+(g) The Central Government may also specify the maximum number of coal blocks or amount of coal
+reserves or both that may be allocated to a company or corporation or its subsidiary or associate
+companies.
+(5)
+In case the coal block is specified for the purpose of own consumption and an applicant having a coal
+linkage becomes the successful allottee, then the entitlement to receive coal pursuant to such coal linkage for
+the end use plant on the basis of which it became a successful allottee may be reduced on such basis as may be
+specified by the Central Government.
+
+¹Hkkx IIμ[k.M 3(i)º
+
+Hkkjr dk jkti=k % vlk/kj.k
+
+17
+
+(6)
+The Central Government shall constitute a committee consisting of an officer not below the rank of
+Joint Secretary to the Government of India in the Ministry of Coal as chairperson, such other members from
+various Ministries and departments of the Central Government and such technical experts from various fields
+as it may deem fit for considering the applications received and assessing the eligibility of the applicants
+based on the criteria specified in the allotment document.
+(7)
+The Committee may, if considered necessary for the purpose of sub-rule (6), invite representative of
+the State Government where the coal block is located;
+(8)
+The Committee after considering the applications received and assessing the eligibility of the
+applicants based on the criteria specified in the allotment document shall submit its recommendation to the
+Central Government specifying the name of preferred allottee selected by it from amongst the applicants
+alongwith the reasons for such selection.
+(9)
+The Central Government may, after such scrutiny of the allotment conducted, as may be deemed
+expedient, declare the preferred allottee to be the successful allottee for the coal block or may cancel the
+allotment process of the coal block.
+(10)
+The Central Government may in public interest and for the reasons to be recorded in writing, relax
+any of the provisions of this rule for the allotment of a coal block to:
+(i) a Government company or corporation owned, managed or controlled by the Central Government,
+or
+(ii) a Government company or corporation for utilisation of coal in the linked power project to be
+awarded on the basis of competitive bid for tariff (including Ultra Mega Power Project):
+Provided that in case of allotment of a coal block to a Government company or corporation for
+utilisation of coal in the linked power project to be awarded on the basis of competitive bid for tariff
+(including Ultra Mega Power Project), the Central Government shall first issue an in-principle allotment letter
+for such coal block to such Government company or corporation recommended by the Government of India in
+the Ministry of Power before the competitive bidding for tariff and thereafter on successful award of power
+project, the final allotment order shall be issued in accordance with the process specified in the rule 8.
+7.
+Allotment on the basis of tariff based competitive bidding for power projects.—(1)
+Notwithstanding anything contained in rules 5 or 6, the Central Government may in accordance with the
+clause (b) of the proviso to section 11A of the Act, allot any coal block which has been specified by the
+Central Government for allotment under sub-clause (iii) of clause (b) of sub-rule (1) of rule 3, to any company
+or corporation that has been awarded a power project on the basis of competitive bids for tariff (including
+Ultra Mega Power Projects) and recommended for such allotment by the Government of India in the Ministry
+of Power, on such terms and conditions as the Central Government may deem expedient.
+8.
+Procedure after declaration of successful bidder or successful allottee.—(1) The successful bidder
+declared in accordance with the provisions of rule 5 or the successful allottee declared in accordance with the
+provision of rule 6 or rule 7, that is, the successful allocatee shall enter into an agreement with the Central
+Government wherein the terms and conditions of the allocation shall be specified and which shall be
+terminated in accordance with sub-rule (7).
+(2)
+In case of allotment under rule 6, the agreement with successful allottee shall contain inter-alia,
+following conditions, namely:—
+(i)
+
+The successful allottee shall utilise the coal for the specified purpose only for which the coal
+block has been allocated.
+
+(ii)
+
+In case the coal block is allotted for the purpose of own consumption, if the allottee washes coal
+obtained from the coal block, then the middlings, rejects, tailings, jhama or any other type of coal
+obtained on washing, which cannot be utilised for the purpose for which the coal block has been
+allocated, shall be sold or disposed of by the successful allottee only with the prior approval of the
+Coal Controller’s Organisation.
+
+(iii)
+
+In case coal block is allotted for purpose of sale of coal, then the coal produced from the coal
+block shall be sold or distributed through a non-discriminatory, reasonable and transparent
+mechanism.
+
+18
+
+THE GAZETTE OF INDIA : EXTRAORDINARY
+
+[PART II—SEC. 3(i)]
+
+(iv)
+
+In case the purpose of allotment of coal block is specified as consumption of coal in generation of
+electricity through generating station, the allottee shall utilise coal for the power plants owned by
+it for which power purchase agreement had been signed as per the prevailing policy issued by the
+Central Government from time to time.
+
+(v)
+
+The production of coal shall be as per the approved mining plan and the terms and conditions of
+the mining lease.
+
+(vi)
+
+The allocatee Company shall be responsible for development of coal block as per the milestones
+as specified in the agreement and approved mining plan.
+
+(vii)
+
+No company other than a Government company or corporation shall hold more than twenty-six
+per cent of the paid-up share capital in the successful allottee either directly or through any of its
+subsidiary company or associate company.
+
+(viii)
+
+The allocatee company shall file such periodical return, as may be specified, regarding
+distribution and utilisation of coal to the Coal Controller and any other agency authorized by the
+Central Government or the State Government:
+Provided that in case the allotment is made under sub-rule (10) of rule 6 to a Government
+company or corporation for utilisation of coal in the linked power project awarded on the basis of
+competitive bid for tariff (including Ultra Mega Power Project), periodical return shall be filed by
+the operating special purpose vehicle after award of power project on the basis of competitive
+bidding in accordance with the guidelines issued by the Central Government in the Ministry of
+Power.
+
+(ix)
+
+In case the coal block is to be developed through a mine developer and operator, the selection of
+such mine developer and operator shall be through a competitive bidding process and the
+successful allocatee shall inform the Central Government and the State Government about the
+engagement of the mine developer and operator and the terms and conditions of such engagement,
+as soon as it is finalised.
+
+(x)
+
+The successful allottee shall ensure that the criteria of bidding for engagement of mine developer
+and operator is not linked to the notified price of the Coal India Limited.
+
+(xi)
+
+The mine developer and operator shall maintain all records required to be maintained and shall
+make available such records for inspection to the successful allottee, the State Government and
+the Central Government.
+
+(3)
+In case of allotment under rule 7, the agreement with the successful allottee shall contain, inter alia,
+the conditions contained in clause (i), (ii), (iv), (v), (vi) and (viii) of sub-rule (2) of rule 8.
+(4)
+The successful allocatee shall be required to provide a performance bank guarantee in favour of the
+Central Government for such amount and period as may be specified by the Central Government and such
+performance bank guarantee shall, inter alia, provide for the following, namely:—
+(i)
+
+it shall be unconditional and irrevocable;
+
+(ii)
+
+it shall be linked with the milestones for the development of the coal block as may be specified by
+the Central Government; and
+
+(iii)
+
+upon invocation of the performance bank guarantee, the payment should be made immediately
+without any demur, reservation, caveat, protest or recourse:
+Provided that in case the allotment is made under sub-rule (10) of rule 6 to a Government
+company or corporation for utilisation of coal in the linked power project to be awarded on the
+basis of competitive bid for tariff (including Ultra Mega Power Project), the performance Bank
+Guarantee shall be provided by the operating special purpose vehicle on behalf of the successful
+allocatee after award of power project on the basis of competitive bidding in accordance with
+guidelines issued by the Central Government in the Ministry of Power.
+
+(5)
+Upon entering of the agreement as specified in sub-rule (1) and (2) and providing performance bank
+guarantee as specified in sub-rule (3), the successful allocatee shall be entitled to receive an allocation order
+from the Central Government in respect of the coal block for which it was declared successful allocatee.
+
+¹Hkkx IIμ[k.M 3(i)º
+
+Hkkjr dk jkti=k % vlk/kj.k
+
+19
+
+(6)
+Issuance of allocation order shall be conclusive evidence that all the requirements of section 11A of
+the Act and these rules have been complied with in respect of the selection of successful allocatee and the
+successful allocatee shall be entitled for grant of prospecting licence or mining lease in respect of the relevant
+coal block from the State Government in accordance with sub-section (3) of section 11A of the Act.
+(7)
+The terms and conditions of the agreement as specified in sub-rule (1) and (2) or (3) of this rule shall
+be included in terms and conditions of the mining lease for the coal block alongwith any other terms and
+conditions that the Central Government or the State Government shall deem fit under the mineral concession
+rules and upon grant of the mining lease, the agreement as specified in sub-rule (1) and (2) or (3) of this rule
+shall stand terminated.
+(8)
+The State Government concerned may, upon grant of mining lease, require the successful allocatee to
+provide a performance bank guarantee in its favour for ensuring the production of coal as per the mining plan:
+Provided that in case the allotment is made under sub-rule (10) of rule 6 to a Government company or
+corporation for utilisation of coal in the linked power project to be awarded on the basis of competitive bid for
+tariff (including Ultra Mega Power Project), the performance bank guarantee shall be provided by the
+operating special purpose vehicle on behalf of the successful allocatee after award of power project on the
+basis of competitive bidding in accordance with guidelines issued by the Central Government in the Ministry
+of Power.
+(9)
+The performance bank guarantee submitted under sub-rule (4) shall be returned to the successful
+allocatee after submission of performance bank guarantee under sub-rule (8) or after 60 days of termination of
+the agreement as specified in sub-rule (1) and (2), whichever is earlier.
+(10)
+The allocation order shall be cancelled by the Central Government, inter alia, in the following
+circumstances, namely:—
+(a) in case of breach of terms of the agreement entered under the provisions of sub-rule (1) and (2);
+(b) misrepresentation of facts by the successful allocatee;
+(c) violation of the provisions of the Act and rules framed under the Act;
+(d) in the event of cancellation of mining lease;
+(e) on recommendation of the State Government concerned in the event of breach of terms and
+conditions of mining lease; or
+(f) in the opinion of the Central Government, for the reasons to be recorded in writing, it is expedient
+in public interest to terminate the allocation.
+9.
+Re-auction and re-allotment.— (1) On cancellation of auction process or allotment process pursuant
+to rule 5, rule 6 or rule 7, as the case may be, on account of any reason whatsoever, the Central Government
+shall have the power to initiate fresh process of auction or allotment of the coal block, or re-initiate entire
+allocation process as specified in rule 3.
+CHAPTER III: MISCELLANEOUS
+10.
+Arrangements for optimal utilisation of coal blocks.— (1) In case the coal block is allocated for the
+purpose of own consumption, the successful allocatee or coal linkage holder shall, with the prior approval of
+the Central Government, be entitled to enter into certain agreements or arrangements with other successful
+allocatee or coal linkage holder, as the case may be, for optimum utilisation of coal block for the same
+purpose in the public interest and to achieve cost efficiencies.
+(2) A successful allocatee or a coal linkage holder proposing to enter into any agreements or arrangements
+referred to in sub-rule (1) shall make an application to the Central Government in writing.
+(3) The application referred to in sub-rule (2) shall include the complete particulars of the following, namely:—
+(a) parties to the proposed agreements or arrangements;
+(b) the proposed agreements or arrangements;
+(c) the manner in which such agreements or arrangements would achieve optimal utilisation of coal
+blocks and cost efficiencies; and
+(d) details of coal linkages of the parties, if any.
+
+20
+
+THE GAZETTE OF INDIA : EXTRAORDINARY
+
+[PART II—SEC. 3(i)]
+
+(4) Before applying, parties shall ensure that all parties to the arrangement or agreement are otherwise
+eligible for the allocation of the coal block or grant of coal linkage, as the case may be, which are subject
+matter of such agreement or arrangement.
+(5) The Central Government may seek such further information regarding the proposed agreement or
+arrangements as it may deem fit.
+(6) The Central Government may after such investigation as may, in its opinion be necessary, by an order in
+writing, grant its approval or reject the proposed agreement or arrangements, in whole or in part.
+(7) The Central Government while granting its approval may impose any condition which shall be binding on
+the parties to such agreement or arrangement.
+(8) Upon execution of such agreement or arrangement, the party carrying out the mining operations in the coal
+block or receiving coal under coal linkage shall bear the liabilities in relation to such coal block or coal
+linkage.
+(9) Upon execution of such agreements or arrangements, a certified copy of the same shall be deposited with
+the Central Government or such other agency or department as may be specified by the Central Government,
+within fifteen business days of such execution.
+(10) Nothing in this rule shall apply to the coal block allotted under sub-rule (10) of rule 6 for utilisation of
+coal in the linked power project awarded on the basis of competitive bid for tariff (including Ultra Mega
+Power Project) and to the coal block allotted under rule 7.
+11.
+Utilisation of coal for any other plant of the successful allocatee.— In case the coal block is
+allocated for the purpose of own consumption, a successful allocatee may use the coal mined from a particular
+coal block for the same purpose in any of its plants or plant of its subsidiary or holding company, with a prior
+intimation to the Central Government in writing:
+Provided that in case of allotment, a successful allottee may also utilise coal from the coal block
+allotted for the purpose of own consumption, in the plants of its joint venture company or corporation formed
+with other government companies or corporations where the successful allottee company has majority
+shareholding in the joint venture company or corporation.
+(2) The intimation referred in sub-rule (1) shall be provided at least thirty business days prior to the intended
+date of such utilisation.
+(3) The Central Government may seek further information regarding such utilisation as it may deem fit and
+may impose such terms and conditions as may be found necessary.
+(4) Nothing in this rule shall apply to the coal block allotted under sub-rule (10) of rule 6 for utilisation of coal
+in the linked power project awarded on the basis of competitive bid for tariff (including Ultra Mega Power
+Project) and to the coal block allotted under rule 7.
+12.
+Proceeds of auction or allotment.— (1) The proceeds of the auction or allotment, as the case may
+be, shall be deposited by the successful allocatee to the State Government concerned where the coal block is
+located in the manner as may be specified by the State Government with intimation to the Central
+Government.
+(2) The constituents of proceeds of auction or allotment shall be specified by the Central Government.
+Explanation.—For the purposes of this rule, it is hereby clarified that proceeds for auction or
+allotment excludes any royalty, levy, cess, tax, duties, or charges imposed by Central Government, State
+Government or local Government, as the case may be.
+13.
+Affidavit to accompany each document.— If any person submits or produces any document to the
+Central Government or any authority under the Act or these rules, such document shall be accompanied by an
+affidavit regarding its genuineness and if it is discovered subsequently that such document is false or
+incorrect, he shall be liable for penal action under the law for the time being in force.
+14.
+Central Government may seek assistance.— The Central Government may, for the purpose of
+discharging its functions under these rules, seek assistance of any departments, authorities, agencies, technical
+experts or government companies or corporations and may also constitute committees.
+
+¹Hkkx IIμ[k.M 3(i)º
+
+21
+
+Hkkjr dk jkti=k % vlk/kj.k
+
+15.
+Protection of action taken in good faith.— No suit, prosecution or other legal proceeding shall lie
+against the Central Government, or State Government or any person acting on their behalf, in respect of
+anything which is done or intended to be done in good faith under these rule.
+16.
+Rules not to apply on certain coal mines.— Nothing in these rules shall apply to coal mines listed in
+Schedule I of the Coal Mines (Special Provisions) Act, 2015 (No. 11 of 2015).
+17.
+Repeal and savings.— (1) The Auction by Competitive Bidding of Coal Mines Rules, 2012 are
+hereby repealed.
+(2) Notwithstanding such repeal, anything done or any action taken under the Auction by Competitive
+Bidding of Coal Mines Rules, 2012, shall be deemed to have been done or taken under the corresponding
+provisions of these rules and any process of allocation pending under the said Auction by Competitive
+Bidding of Coal Mines Rules, 2012 shall continue and after the final allocation of the coal block the remaining
+procedure and conditions under the corresponding provisions of these rules shall be applicable.
+[F. No. 11022/01/2015-CA-III]
+VIVEK BHARADWAJ, Jt. Secy.
+
+signed by RAKESH SUKUL
+RAKESH SUKUL Digitally
+Date: 2017.07.13 22:45:56 +05'30'
+
+Uploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064
+and Published by the Controller of Publications, Delhi-110054.
+
+

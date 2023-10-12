@@ -1,0 +1,179 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  overflow-y: hidden;
+}
+
+/* .fullPage {
+  display: flex;
+  flex-direction: row;
+} */
+
+/* Style the overall app container */
+.app {
+  width: 80vw;
+  height: 90vh;
+  margin: 1rem auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+.info{
+  height: 80vh;
+  background-color: rgba(28, 37, 38, 0.724);
+}
+
+/* Style the chat window */
+.chat-window {
+  height: 50vh;
+  overflow-y: auto;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+/* Style individual chat messages */
+.chat-message {
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+  max-width: 70%;
+}
+
+/* Style user's messages */
+.chat-message.user {
+  background-color: #ffc87b46;
+  color: #045cff;
+  align-self: flex-end;
+  width: max-content;
+  height: max-content;
+  display: flex;
+  align-items: flex-end;
+  /* text-wrap: nowrap; */
+}
+.fetchedData {
+  background-color: #adfb804a;
+  color: #045cff;
+  align-self: flex-end;
+  max-width: 60vw;
+  height: max-content;
+  padding: 2px 10px;
+  border-radius: 7px;
+  margin-left:4rem;
+  display: flex;
+  align-items: flex-end;
+  text-wrap: wrap;
+}
+
+/* Style bot's messages */
+.chat-message.bot {
+  background-color: #eee;
+  color: #000;
+  align-self: flex-start;
+}
+
+/* Style the user input form */
+.user-input {
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid #ccc;
+  padding-top: 10px;
+}
+
+.user-input input[type="text"] {
+  height: 2.5rem;
+  font-size:medium;
+  flex-grow: 1;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+}
+
+.user-input button {
+  background-color: #5f94f5;
+  color: #fff;
+  border: none;
+  border-radius: 20px;
+  padding: 5px 10px;
+  cursor: pointer;
+  margin-left: 10px;
+  height:3rem;
+  justify-content: center;
+  align-content: center;
+}
+
+.user-input button:hover {
+  background-color: #3a75c7;
+}
+
+#serInputBox{
+  margin-left: 10px;
+}
+
+#heading{
+  text-align: center;
+ /* 'Lucida Sans','Lucida Sans Regular', Geneva, Verdana, */
+  font-family: 'Lucida Sans Regular';
+  font-size:2rem;
+  font-weight: 1100;
+  color: #001335;
+  /* text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); */
+  /* text-decoration: underline; */
+}
+
+.NavBar{
+  display: flex;
+  list-style-type: none;
+  justify-content:space-around;
+}
+
+.NavBar li img{
+  width: 14vw;
+  height: 12vh;
+}
+
+
+
+
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
