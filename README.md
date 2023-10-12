@@ -13,17 +13,17 @@ pip3 install -r requirements.txt
 ```
 
 *Alternative requirements installation with poetry*
-1. Install [poetry](https://python-poetry.org/docs/#installation)
+1. Install [poetry](https://python-poetry.org/docs/#installing-with-the-official-installer)
 
 2. Run this commands
 ```shell
-cd privateGPT
+cd Chatbot
 poetry install
 poetry shell
 ```
 
 Then, download the LLM model and place it in a directory of your choice:
-- LLM: default to [ggml-gpt4all-j-v1.3-groovy.bin](https://gpt4all.io/models/ggml-gpt4all-j-v1.3-groovy.bin). If you prefer a different GPT4All-J compatible model, just download it and reference it in your `.env` file.
+- LLM: default to [ggml-gpt4all-j-v1.3-groovy.bin]([https://gpt4all.io/models/ggml-gpt4all-j-v1.3-groovy.bin](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML)). If you prefer a different GPT4All-J compatible model, just download it and reference it in your `.env` file.
 
 Copy the `example.env` template into `.env`
 ```shell
